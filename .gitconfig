@@ -1,0 +1,11 @@
+[user]
+	name = myuto
+	email = m.yuto72319@gmail.com
+[alias]
+	ss = status
+	br = branch
+	brd = branch -d
+	co = checkout
+	cob = checkout -b
+[core]
+	editor = vim
